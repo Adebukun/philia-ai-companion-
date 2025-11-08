@@ -31,6 +31,14 @@ Technologies (Planned Stack)
 5. Authentication: JWT  
 6. Deployment: Vercel (frontend), Render (backend)
 
+Key Technologies:
+1. Flutter: Used for creating a smooth, cross-platform mobile experience (both Android & iOS).
+2. FastAPI: Powers the backend, providing fast and reliable communication between the mobile app and AI models.
+3. MongoDB: Stores user data, chat history, and personalization preferences.
+4. AI Models: Utilizes OpenAI GPT-4 for conversational AI, Whisper for speech-to-text, and ElevenLab for text-to-speech capabilities, creating a seamless voice-first experience.
+
+
+
 Vision
 Philia redefines digital companionship by combining emotional intelligence with technology.  
 It doesn’t replace people — it listens with empathy, remembers with care, and responds with intention.
